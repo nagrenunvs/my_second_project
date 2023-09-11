@@ -1,8 +1,8 @@
 {
-  "label": "Tutorial - Basics",
+  "label": "API Docs",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Empowering developers with the tools they need to build an amazing software is our passion. Our APIs are not just lines of code, they are the building blocks of innovation, the bridges between ideas and reality."
   }
 }
